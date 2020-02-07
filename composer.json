@@ -1,7 +1,12 @@
 {
-  "name": "serjazz/text-lang-correct",
+  "name": "icqparty/text-lang-correct",
   "description": "A short description of what your package does",
   "require": {
     "php": ">=5.3"
-  }
+  },
+  "autoload": {
+        "psr-4": {
+            "Icqparty\\TextLangCorrect\\": "/"
+        },
+    }
 }
