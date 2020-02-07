@@ -59,7 +59,7 @@
  * @author   Nasibullin Rinat
  * @version  2.2.2
  */
-namespace Icqparty\TextLangCorrect;
+namespace Serjazz\TextLangCorrect;
 
 
 
