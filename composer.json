@@ -1,6 +1,6 @@
 {
   "name": "serjazz/text-lang-correct",
-  "description": "A short description of what your package does",
+  "description": "Automatic correction of the language for words in the text because of the wrong keyboard layout.",
   "require": {
     "php": ">=5.3"
   },
